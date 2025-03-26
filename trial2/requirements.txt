@@ -1,0 +1,5 @@
+wget
+pathlib
+matplotlib
+rasterio
+numpy
